@@ -1,0 +1,23 @@
+{
+  "generic-button": "generic/generic-button.json",
+  "generic-touchpad": "generic/generic-touchpad.json",
+  "generic-trigger-squeeze-thumbstick": "generic/generic-trigger-squeeze-thumbstick.json",
+  "generic-trigger-squeeze-touchpad-thumbstick": "generic/generic-trigger-squeeze-touchpad-thumbstick.json",
+  "generic-trigger-squeeze-touchpad": "generic/generic-trigger-squeeze-touchpad.json",
+  "generic-trigger-squeeze": "generic/generic-trigger-squeeze.json",
+  "generic-trigger-thumbstick": "generic/generic-trigger-thumbstick.json",
+  "generic-trigger-touchpad-thumbstick": "generic/generic-trigger-touchpad-thumbstick.json",
+  "generic-trigger-touchpad": "generic/generic-trigger-touchpad.json",
+  "generic-trigger": "generic/generic-trigger.json",
+  "google-daydream": "google/google-daydream.json",
+  "htc-vive-focus": "htc/htc-vive-focus.json",
+  "htc-vive": "htc/htc-vive.json",
+  "magicleap-one": "magicleap/magicleap-one.json",
+  "microsoft-mixed-reality": "microsoft/microsoft-mixed-reality.json",
+  "oculus-go": "oculus/oculus-go.json",
+  "oculus-touch-v2": "oculus/oculus-touch-v2.json",
+  "oculus-touch": "oculus/oculus-touch.json",
+  "samsung-gearvr": "samsung/samsung-gearvr.json",
+  "samsung-odyssey": "samsung/samsung-odyssey.json",
+  "valve-index": "valve/valve-index.json"
+}
